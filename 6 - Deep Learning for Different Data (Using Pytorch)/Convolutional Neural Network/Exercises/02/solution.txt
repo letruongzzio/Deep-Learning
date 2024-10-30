@@ -1,0 +1,9 @@
+Convolutional Neural Networks Exercises - Multiple choices answers
+1. A
+2. C
+3. A
+4. D
+5. D
+6. B
+7. D
+8. B
